@@ -1,4 +1,4 @@
-## Hi there  mi name is Jhon Edison 👋
+## Hi there, my name is Jhon Edison 👋
 
 
 **jhoney787813/jhoney787813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
