@@ -5,7 +5,7 @@ Soy un desarrollador de software apasionado por convertir ideas en soluciones in
 
 Este portafolio es más que una vitrina de mis proyectos: es una demostración de cómo el código puede transformar visiones en realidades. Con un firme compromiso hacia el Clean Code y la implementación de patrones de diseño de software, cada línea de código que escribo está diseñada para mejorar la experiencia del usuario final.
 
-🔭 Actualmente estoy trabajando en: Proyectos de desarrollo de aplicaciones web,moviles y distribuididas utilizando tecnologías modernas como lo pueden ser: Apache Kafka,Redis Cache,Kubernetes,Docker,MongoDB,Python,JSON Web Token (JWT)
+🔭 Actualmente estoy trabajando en: Proyectos de desarrollo de aplicaciones web,moviles y distribuidas utilizando tecnologías modernas como lo pueden ser: Apache Kafka,Redis Cache,Kubernetes,Docker,MongoDB,Python,JSON Web Token (JWT)
 
 🌱  Actualmente estoy aprendiendo: Nuevas tendencias orientadas al desarrollo seguro (Ciberseguridad).
 
@@ -17,6 +17,6 @@ Este portafolio es más que una vitrina de mis proyectos: es una demostración d
 
 📫 Cómo contactar conmigo: Puedes seguirme o contactar me en LinkedIn https://www.linkedin.com/in/jhoney7878/
 
-⚡Datos curiosos: En mi tiempo libre, disfruto creando videojuegos indie y explorando nuevas tecnologías.
+⚡Datos curiosos: En mi tiempo libre, estoy aprendiendo diseño de videojuegos indie y explorando nuevas tecnologías.
 
 ¡Transformemos tus ideas en éxito a través de la tecnología! 💻✨
