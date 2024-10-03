@@ -7,18 +7,16 @@ Este portafolio es más que una vitrina de mis proyectos: es una demostración d
 
 🔭 Actualmente estoy trabajando en: Proyectos de desarrollo de aplicaciones web utilizando tecnologías modernas como lo pueden ser: Apache Kafka,Redis Cache,Kubernetes,Docker,MongoDB,Python,JSON Web Token (JWT)
 
-🌱 Currently learning: Nuevas tendencias en inteligencia artificial y machine learning.
+🌱  Actualmente estoy aprendiendo: Nuevas tendencias orientadas al desarrollo seguro (Ciberseguridad).
 
-👯 Looking to collaborate on: Proyectos que desafíen la creatividad y busquen soluciones innovadoras.
+👯 Quiero colaborar en: Proyectos que desafíen la creatividad y busquen soluciones innovadoras.
 
-🤔 Looking for help with: Mejores prácticas en optimización de rendimiento y seguridad de APIs.
+🤔 Puedes aportar me con conocimientos: Mejores prácticas en optimización de rendimiento y seguridad de APIs.
 
-💬 Ask me about: Clean Architecture, principios SOLID y cómo transformar ideas en soluciones efectivas.
+💬 Puedo ayudar te con temas de: Clean Architecture, principios SOLID y cómo transformar ideas en soluciones efectivas.
 
-📫 How to reach me: Puedes contactarme a través de mi correo [tuemail@example.com] o seguirme en LinkedIn [tu perfil de LinkedIn].
+📫 Cómo contactar conmigo: Puedes seguirme o contactar me en LinkedIn https://www.linkedin.com/in/jhoney7878/
 
-😄 Pronouns: Él / Su.
-
-⚡ Fun fact: En mi tiempo libre, disfruto creando videojuegos indie y explorando nuevas tecnologías.
+⚡Datos curiosos: En mi tiempo libre, disfruto creando videojuegos indie y explorando nuevas tecnologías.
 
 ¡Transformemos tus ideas en éxito a través de la tecnología! 💻✨
