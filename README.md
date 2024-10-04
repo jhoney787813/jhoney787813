@@ -20,3 +20,6 @@ Este portafolio es más que una vitrina de mis proyectos: es una demostración d
 ⚡Datos curiosos: En mi tiempo libre, estoy aprendiendo diseño de videojuegos indie y explorando nuevas tecnologías.
 
 ¡Transformemos tus ideas en éxito a través de la tecnología! 💻✨
+
+## Tecnologías y herramientas de dominio
+
