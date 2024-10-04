@@ -25,7 +25,6 @@ Este portafolio es más que una vitrina de mis proyectos: es una demostración d
 <div style="overflow-x:auto; text-align: center;">
 
 <table style="margin: auto; border-collapse: collapse; width: 100%; max-width: 100%;">
-
     <tr>
         <td><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="MongoDB"   title="MongoDB" width="100%" height="40" style="border-radius: 50%;" /></td>
         <td ><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"   title="Java" width="40" height="40" style="border-radius: 50%;" /></td>
@@ -48,18 +47,11 @@ Este portafolio es más que una vitrina de mis proyectos: es una demostración d
         <td><img src="https://dotnet.microsoft.com/static/images/xamarin/xamarin-logo.svg"  alt="Xamarin"   title="Xamarin" width="40" height="40" style="border-radius: 50%;" /></td>
     </tr>
     <tr>
-        <td>Insomnia</td>
-        <td>Redis</td>
-        <td>C#</td>
-        <td>.NET</td>
-        <td>C++</td>
-    </tr>
-    <tr>
-        <td><img src="https://raw.githubusercontent.com/Insomnia/Insomnia/develop/assets/insomnia-logo.svg" alt=""   title="" width="40" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt=""   title="" width="40" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt=""   title=""width="40" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://dotnet.microsoft.com/static/images/dotnet-logo.svg" alt=""   title="" width="40" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt=""   title=""  width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://raw.githubusercontent.com/Insomnia/Insomnia/develop/assets/insomnia-logo.svg" alt="Insomnia"   title="Insomnia" width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"   title="Redis" width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"   title="C#" width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://dotnet.microsoft.com/static/images/dotnet-logo.svg" alt=".NET"   title=".NET" width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++"   title="C++"  width="40" height="40" style="border-radius: 50%;" /></td>
     </tr>
 </table>
 
