@@ -33,25 +33,18 @@ Este portafolio es más que una vitrina de mis proyectos: es una demostración d
         <td><img src="https://miro.medium.com/max/1260/1*_JIynJkYTmtADwj-RARpAQ.png" alt="Kotlin"   title="Kotlin" width="80" height="40" style="border-radius: 50%;" /></td>
     </tr>
     <tr>
-        <td>Azure Functions</td>
-        <td>Android</td>
-        <td>Docker</td>
-        <td>Kafka</td>
-        <td>Xamarin</td>
-    </tr>
-    <tr>
         <td><img src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg" alt="Azure Functions"   title="Azure Functions" width="90" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://developer.android.com/images/logos/android/android-logo.svg"  alt="Android"   title="Android"  width="40" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"   title="Docker" width="40" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://kafka.apache.org/images/apache-kafka.png" alt="Kafka"   title="Kafka" width="40" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://dotnet.microsoft.com/static/images/xamarin/xamarin-logo.svg"  alt="Xamarin"   title="Xamarin" width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://img.icons8.com/?size=48&id=1LAX3PYMg2iA&format=png"  alt="Android"   title="Android"  width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"   title="Docker" width="80" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Kafka"   title="Kafka" width="80" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/2560px-Xamarin-logo.svg.png"  alt="Xamarin"   title="Xamarin" width="80" height="40" style="border-radius: 50%;" /></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/Insomnia/Insomnia/develop/assets/insomnia-logo.svg" alt="Insomnia"   title="Insomnia" width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://seeklogo.com/images/I/insomnia-logo-1D1353219A-seeklogo.com.png" alt="Insomnia"   title="Insomnia" width="90" height="40" style="border-radius: 50%;" /></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"   title="Redis" width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" alt=".NET"  title=".NET" width="80" height="40" style="border-radius: 50%;" /></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"   title="C#" width="40" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://dotnet.microsoft.com/static/images/dotnet-logo.svg" alt=".NET"   title=".NET" width="40" height="40" style="border-radius: 50%;" /></td>
-        <td><img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++"   title="C++"  width="40" height="40" style="border-radius: 50%;" /></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++"   title="C++"  width="40" height="40" style="border-radius: 50%;" /></td>
     </tr>
 </table>
 
