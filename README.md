@@ -56,7 +56,7 @@ Este portafolio es más que una vitrina de mis proyectos: es una demostración d
 </div>
 
 ##v2
-<div style="overflow-x:auto; text-align: center;">
+<div style="overflow-x:auto; text-align: center;background-color: #ffffff;">
     <table style="margin: auto; border-collapse: collapse; width: 100%; max-width: 100%; background-color: #ffffff;">
         <tr>
             <td><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="100%" height="40" /></td>
