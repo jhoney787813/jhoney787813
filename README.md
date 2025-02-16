@@ -40,7 +40,7 @@ Este portafolio es más que una vitrina de mis proyectos: es una demostración d
         </tr>
         <tr>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" style="width: 100px; height: auto;" /></td>
-            <td><img src="https://seeklogo.com/images/I/insomnia-logo-1D1353219A-seeklogo.com.png" alt="Insomnia" title="Insomnia" style="width: 100px; height: auto;" /></td>
+            <td><img src="https://images.seeklogo.com/logo-png/48/1/insomnia-logo-png_seeklogo-489676.png" alt="Insomnia" title="Insomnia" style="width: 100px; height: auto;" /></td>
             <td><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" alt=".NET" title=".NET" style="width: 100px; height: auto;" /></td>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="width: 100px; height: auto;" /></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++" title="C++" style="width: 100px; height: auto;" /></td>
