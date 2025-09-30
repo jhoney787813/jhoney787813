@@ -23,7 +23,7 @@ Este **portafolio** es más que una vitrina de mis proyectos: es una demostraci�
 
 ## ¡**Contribuciones**! ✨
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhoney787813&theme=dracula&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhoney787813&theme=dracula&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Algunas tecnologías y herramientas que domino
 <div style="overflow-x:auto; text-align: center; background-color: #ffffff; padding: 20px;">
