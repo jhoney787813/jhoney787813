@@ -1,5 +1,8 @@
 ## Hola, mi nombre es Jhon Edison 👋
-![bannerlinkedin](https://github.com/user-attachments/assets/07f1dfa4-7a06-4313-9c3d-711e74311df2)
+<img width="1400" height="350" alt="githubbanner" src="https://github.com/user-attachments/assets/2b7b4b54-db2e-4f17-8296-3eb66f1168ae" />
+
+
+
 
 Soy un **desarrollador de software** apasionado por convertir **ideas** en **soluciones innovadoras**. Mi enfoque en **Clean Architecture**, **API REST**, y aplicar los principios **SOLID** me permite crear aplicaciones **robustas** y **escalables** que no solo cumplen con las expectativas, ¡sino que las superan!
 
